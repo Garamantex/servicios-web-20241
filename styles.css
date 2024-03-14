@@ -1,0 +1,21 @@
+.box {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    background-color: blue;
+    padding: 5rem;
+}
+
+.box-inner {
+    width: 500px;
+    height: 100%;
+    background-color: red;
+}
+
+.title {
+    padding: 2rem 0;
+    font-size: 3rem; 
+    font-weight: 600; 
+    text-align: center; 
+    color: white;
+}
